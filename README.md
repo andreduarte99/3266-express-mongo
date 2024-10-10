@@ -14,7 +14,7 @@ Este projeto é uma API REST para gerenciar uma livraria, utilizando Node.js, Ex
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/api-livraria.git
+   git clone https://github.com/andreduarte99/api-livraria.git
 ## Instale as dependências:
 npm install
 
